@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/backend_content/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend_item/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_content/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_euraka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_item/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_tx_manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fronted_sso/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frontend_cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frontend_order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frontend_portable/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frontend_search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

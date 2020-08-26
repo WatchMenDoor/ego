@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: common-zuul
+
+server:
+  port: 7070
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://eureka-server:8761/eureka/
+
+zuul:
+  sensitive-headers: true #全局配置，解决在网关中不传递请求头的问题
+  routes:
+    backend-item:
+      path: /backend_item/**
+    backend-content:
+      path: /backend_content/**
